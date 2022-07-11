@@ -1,2 +1,2 @@
 # Deep-Learning-Intro-
-Code assignments 
+Coding assignments 
